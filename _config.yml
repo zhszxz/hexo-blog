@@ -128,4 +128,8 @@ jsonContent:
       categories: false
       tags: true
 
-auto_category: true
+# 自动根据文件夹生成分类
+auto_category:
+  enable: true
+  depth: 3      # 取几级目录作为分类（建议 2~3）
+  multiple: false
