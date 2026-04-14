@@ -5,7 +5,6 @@ tags:
 - 倒排索引
 - 分词
 - 文档
-category: ElasticSearch
 ---
 
 # ES核心概念
