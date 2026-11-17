@@ -2,14 +2,11 @@
 title: Vuex 状态管理与项目实战
 tags:
   - Vue
-  - Vue2
   - Vuex
-  - 状态管理
-  - axios
 categories:
   - 前端
   - Vue
-date: 2026-09-13 14:00:00
+date: 2026-11-11 14:00:00
 ---
 
 # Vuex 状态管理与项目实战

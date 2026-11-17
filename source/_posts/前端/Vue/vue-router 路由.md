@@ -2,13 +2,11 @@
 title: vue-router 路由
 tags:
   - Vue
-  - Vue2
   - vue-router
-  - 路由
 categories:
   - 前端
   - Vue
-date: 2026-09-13 13:00:00
+date: 2026-11-07 13:00:00
 ---
 
 # vue-router 路由
